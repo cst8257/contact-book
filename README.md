@@ -1,2 +1,5 @@
-# contact-book
-This repository contains the starter files for the Contact Book project. 
+# Contact Book
+
+## Objective
+Using the provided files, complete the contact book web application.
+
